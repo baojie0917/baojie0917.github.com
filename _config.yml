@@ -9,10 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : ShanBaoJie
+title : baojie的博客
 tagline: Site Tagline
 author :
-  name : Shanbaojie
+  name : baojie0917
   email : sbj8283870@163.com
   github : https://github.com/baojie0917/
   twitter : 
